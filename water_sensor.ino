@@ -27,7 +27,7 @@ void loop()
   soil_mos=map(soil_mos, 0, 1023, 0, 100);
   if (oldmos!=soil_mos) {
     lcd.setCursor(0,0);
-    lcd.print("Soil Moist.:");
+    lcd.print("Soil Moist :");
     lcd.print(soil_mos);
     lcd.print("%");
   }
