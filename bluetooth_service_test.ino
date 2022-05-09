@@ -1,4 +1,4 @@
-
+//블루투스 모듈 통신 테스트 코드 입니다.
 #include <SoftwareSerial.h>
 
 SoftwareSerial mySerial(5,6);
