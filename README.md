@@ -9,5 +9,5 @@ Arduino IDE Ver : 1.8.19
 -------------------------------------------
 
 사용된 부품 : Ardunio UNO Board // Arduino FC-28 moisture sensor // RED, GREEN LED // 16x2 LCD Display 
-//Arduino ZS-040 Bluetooth Module
+// Arduino ZS-040 Bluetooth Module
 
