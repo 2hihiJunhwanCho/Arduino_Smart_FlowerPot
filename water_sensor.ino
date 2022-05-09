@@ -1,3 +1,4 @@
+//스마트화분 작동 코드입니다.
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 String str;
